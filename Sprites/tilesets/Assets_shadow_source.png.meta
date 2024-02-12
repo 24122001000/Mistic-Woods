@@ -1,0 +1,594 @@
+fileFormatVersion: 2
+guid: e65ec18c502f7384eba418647e602671
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Assets_shadow_source_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bce8c9234704747af0cb5c99871606
+      internalID: 242415430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_shadow_source_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4bc53c2b15481468c904ad5980003f
+      internalID: 1168238606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_shadow_source_28
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ace9bbf0fe7b4842b842ff7a46a4fb8
+      internalID: -382892934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_shadow_source_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448de2078fc020d498a1012eb6706abf
+      internalID: -1929152390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_shadow_source_30
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be37ecb4cb6c7c45aa2351689bfd80f
+      internalID: 152818457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_shadow_source_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dc8fd243acfdc40b70e34800ab03d9
+      internalID: 1268716357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_shadow_source_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61aac18b90f8e64abef50fc852a3fe9
+      internalID: 1720426069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_shadow_source_33
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e96e462868fcc4b8bbb97ef3d4b825
+      internalID: -663095429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_shadow_source_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d59ca2de91c9441b4b9a3bcaecc380
+      internalID: 386358369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_shadow_source_35
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e645e64189cb234f9dce87456628557
+      internalID: -596412948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_shadow_source_148
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6597634b786412240b059ee0088c6e82
+      internalID: -1381042511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_shadow_source_149
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016918f619e467f4f81e1be0fe34f68c
+      internalID: -1339810635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_shadow_source_150
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1a135ac13fe304090b21eed2b15d2d
+      internalID: 1273806762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Assets_shadow_source_151
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca15dd897098c245a74f4f9f40ea6d8
+      internalID: -505295682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Assets_shadow_source_0: -408665500
+      Assets_shadow_source_1: -755742747
+      Assets_shadow_source_10: -755634463
+      Assets_shadow_source_100: -675542223
+      Assets_shadow_source_101: -355134835
+      Assets_shadow_source_102: -1320166659
+      Assets_shadow_source_103: -1701339560
+      Assets_shadow_source_104: 874922128
+      Assets_shadow_source_105: -312350382
+      Assets_shadow_source_106: -728934615
+      Assets_shadow_source_107: -1952135337
+      Assets_shadow_source_108: 837461937
+      Assets_shadow_source_109: 584552593
+      Assets_shadow_source_11: -716953827
+      Assets_shadow_source_110: 398029017
+      Assets_shadow_source_111: -1527611447
+      Assets_shadow_source_112: -35891684
+      Assets_shadow_source_113: 1513721664
+      Assets_shadow_source_114: -1883570559
+      Assets_shadow_source_115: 156098518
+      Assets_shadow_source_116: 612642574
+      Assets_shadow_source_117: -511503287
+      Assets_shadow_source_118: -1367397857
+      Assets_shadow_source_119: 334230685
+      Assets_shadow_source_12: 103032495
+      Assets_shadow_source_120: 1845080931
+      Assets_shadow_source_121: 332083474
+      Assets_shadow_source_122: 1398648351
+      Assets_shadow_source_123: 1454609776
+      Assets_shadow_source_124: 798696775
+      Assets_shadow_source_125: -66373225
+      Assets_shadow_source_126: -2028943591
+      Assets_shadow_source_127: -579990940
+      Assets_shadow_source_128: -1304370914
+      Assets_shadow_source_129: -1640047123
+      Assets_shadow_source_13: -1734868941
+      Assets_shadow_source_130: 2134538776
+      Assets_shadow_source_131: 1348746615
+      Assets_shadow_source_132: -2120382198
+      Assets_shadow_source_133: 1440119026
+      Assets_shadow_source_134: 81663096
+      Assets_shadow_source_135: -1681704507
+      Assets_shadow_source_136: -1559076407
+      Assets_shadow_source_137: -341647002
+      Assets_shadow_source_138: 1481620625
+      Assets_shadow_source_139: 1429601878
+      Assets_shadow_source_14: -614133334
+      Assets_shadow_source_140: -8719350
+      Assets_shadow_source_141: -272522965
+      Assets_shadow_source_142: 656373751
+      Assets_shadow_source_143: -580038739
+      Assets_shadow_source_144: -1161086077
+      Assets_shadow_source_145: 1021555502
+      Assets_shadow_source_146: -841457099
+      Assets_shadow_source_147: 586082377
+      Assets_shadow_source_148: -1381042511
+      Assets_shadow_source_149: -1339810635
+      Assets_shadow_source_15: -906724582
+      Assets_shadow_source_150: 1273806762
+      Assets_shadow_source_151: -505295682
+      Assets_shadow_source_152: 626926469
+      Assets_shadow_source_153: 1307075286
+      Assets_shadow_source_154: 804718184
+      Assets_shadow_source_155: 1443558611
+      Assets_shadow_source_156: -728374422
+      Assets_shadow_source_157: 107450116
+      Assets_shadow_source_158: -1084381266
+      Assets_shadow_source_159: 1014557400
+      Assets_shadow_source_16: -284712711
+      Assets_shadow_source_17: 1664162826
+      Assets_shadow_source_18: 1172949734
+      Assets_shadow_source_19: 97503630
+      Assets_shadow_source_2: -683190419
+      Assets_shadow_source_20: 2038724566
+      Assets_shadow_source_21: 1798476920
+      Assets_shadow_source_22: -1830198230
+      Assets_shadow_source_23: 1955911752
+      Assets_shadow_source_24: -379688778
+      Assets_shadow_source_25: 760178832
+      Assets_shadow_source_26: 242415430
+      Assets_shadow_source_27: 1168238606
+      Assets_shadow_source_28: -382892934
+      Assets_shadow_source_29: -1929152390
+      Assets_shadow_source_3: 411234417
+      Assets_shadow_source_30: 152818457
+      Assets_shadow_source_31: 1268716357
+      Assets_shadow_source_32: 1720426069
+      Assets_shadow_source_33: -663095429
+      Assets_shadow_source_34: 386358369
+      Assets_shadow_source_35: -596412948
+      Assets_shadow_source_36: -1285974761
+      Assets_shadow_source_37: -2054828666
+      Assets_shadow_source_38: -559599925
+      Assets_shadow_source_39: 1819927597
+      Assets_shadow_source_4: -1232141041
+      Assets_shadow_source_40: -372690217
+      Assets_shadow_source_41: -368529005
+      Assets_shadow_source_42: 1828073509
+      Assets_shadow_source_43: 824298183
+      Assets_shadow_source_44: 755377169
+      Assets_shadow_source_45: -818896232
+      Assets_shadow_source_46: -480035418
+      Assets_shadow_source_47: 1177751713
+      Assets_shadow_source_48: -1555769413
+      Assets_shadow_source_49: -944349071
+      Assets_shadow_source_5: -184814864
+      Assets_shadow_source_50: -1865868813
+      Assets_shadow_source_51: 534172472
+      Assets_shadow_source_52: -749733202
+      Assets_shadow_source_53: 647949006
+      Assets_shadow_source_54: -1937155604
+      Assets_shadow_source_55: -536392412
+      Assets_shadow_source_56: 1159815589
+      Assets_shadow_source_57: -1958483011
+      Assets_shadow_source_58: 41048677
+      Assets_shadow_source_59: 1162685039
+      Assets_shadow_source_6: 221180029
+      Assets_shadow_source_60: -675348601
+      Assets_shadow_source_61: -2089558178
+      Assets_shadow_source_62: 127923532
+      Assets_shadow_source_63: 961628219
+      Assets_shadow_source_64: 1006477226
+      Assets_shadow_source_65: -102731445
+      Assets_shadow_source_66: 1804821439
+      Assets_shadow_source_67: 332367723
+      Assets_shadow_source_68: -1084173004
+      Assets_shadow_source_69: -1680421317
+      Assets_shadow_source_7: 1172911643
+      Assets_shadow_source_70: 677209563
+      Assets_shadow_source_71: -982267030
+      Assets_shadow_source_72: 1605568016
+      Assets_shadow_source_73: -2127212945
+      Assets_shadow_source_74: -1445877899
+      Assets_shadow_source_75: 1705077180
+      Assets_shadow_source_76: 8585365
+      Assets_shadow_source_77: -1974928395
+      Assets_shadow_source_78: 1089382669
+      Assets_shadow_source_79: 1972642979
+      Assets_shadow_source_8: 1514259711
+      Assets_shadow_source_80: 59798912
+      Assets_shadow_source_81: 1255593587
+      Assets_shadow_source_82: 859407695
+      Assets_shadow_source_83: 810045972
+      Assets_shadow_source_84: 1988398679
+      Assets_shadow_source_85: -580781300
+      Assets_shadow_source_86: 433947285
+      Assets_shadow_source_87: 2077169974
+      Assets_shadow_source_88: 1035332073
+      Assets_shadow_source_89: -1244617816
+      Assets_shadow_source_9: 617008365
+      Assets_shadow_source_90: -1980078945
+      Assets_shadow_source_91: 846869955
+      Assets_shadow_source_92: -645396170
+      Assets_shadow_source_93: 1521517831
+      Assets_shadow_source_94: 399875043
+      Assets_shadow_source_95: 714764388
+      Assets_shadow_source_96: 1771742806
+      Assets_shadow_source_97: 1961901255
+      Assets_shadow_source_98: 911481613
+      Assets_shadow_source_99: -18765383
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
